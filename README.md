@@ -7,10 +7,11 @@ A CPU Scheduling Algorithm Simulator w/ TUI using the Textual framework.
 - Download and run the `cpu_scheduler_tui_finalv2.exe` file directly.
 
 **Option 2: Python**
+- Install the textual framework using your command prompt (cmd)
 ```bash
 pip install textual
-python main.py
 ```
+- Download and run the python file in this repository.
 
 ## Video Demonstration
 https://drive.google.com/file/d/16O1d5UJJDuxRknVx8O17jQ2JAncoYCAp/view?usp=sharing
