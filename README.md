@@ -12,13 +12,13 @@ pip install textual
 python main.py
 ```
 
-## Algorithms
+## Video Demonstration
+https://drive.google.com/file/d/16O1d5UJJDuxRknVx8O17jQ2JAncoYCAp/view?usp=sharing
+
+## Algorithms Included
 - First-Come, First-Served (FCFS)
 - Shortest Job First (SJF) – Non-preemptive
 - Shortest Remaining Time (SRT) – Preemptive
 - Round Robin (RR)
 - Priority Scheduling – Non-preemptive
 - Priority Scheduling with Round Robin
-
-## Video Demonstration
-https://drive.google.com/file/d/16O1d5UJJDuxRknVx8O17jQ2JAncoYCAp/view?usp=sharing
