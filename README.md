@@ -4,7 +4,7 @@ A CPU Scheduling Algorithm Simulator w/ TUI using the Textual framework.
 ## Instructions to Run
 
 **Option 1: Executable**
-Download and run the `cpu_scheduler_tui_finalv2.exe` file directly — no installation needed.
+- Download and run the `cpu_scheduler_tui_finalv2.exe` file directly.
 
 **Option 2: Python**
 ```bash
