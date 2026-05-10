@@ -4,14 +4,14 @@ A CPU Scheduling Algorithm Simulator w/ TUI using the Textual framework.
 ## Instructions to Run
 
 **Option 1: Executable**
-- Download and run the `cpu_scheduler_tui_finalv2.exe` file directly.
+- Download and run the `ManlutacMennardEzekiel3A_cpu_scheduler_tui.exe` file directly.
 
 **Option 2: Python**
 - Install the textual framework using your command prompt (cmd)
 ```bash
 pip install textual
 ```
-- Download and run the python file in this repository.
+- Download and run the `ManlutacMennardEzekiel3A_cpu_scheduler_tui.py` file in this repository.
 
 ## Video Demonstration
 https://drive.google.com/file/d/16O1d5UJJDuxRknVx8O17jQ2JAncoYCAp/view?usp=sharing
