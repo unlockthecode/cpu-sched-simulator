@@ -14,7 +14,7 @@ pip install textual
 - Download and run the `ManlutacMennardEzekiel3A_cpu_scheduler_tui.py` file in this repository.
 
 ## Video Demonstration
-https://drive.google.com/file/d/16O1d5UJJDuxRknVx8O17jQ2JAncoYCAp/view?usp=sharing
+https://drive.google.com/file/d/1eKlwz0DUE9CFjSD1FB-Zl8co-lCeG-va/view?usp=sharing
 
 ## Algorithms Included
 - First-Come, First-Served (FCFS)
