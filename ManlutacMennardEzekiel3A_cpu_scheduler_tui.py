@@ -13,6 +13,7 @@ Keyboard shortcuts:
 
 # Standard library and Textual TUI framework imports; exits early if textual is missing
 from __future__ import annotations
+from turtle import pos
 from typing import List, Tuple, Dict
 import sys
 
@@ -214,7 +215,11 @@ def priority_rr(processes, quantum, higher_is_better=False):
             _finish(p, time); done.append(p)
         else:
             same = [i for i, q in enumerate(ready) if pri_key(q) == pri_key(p)]
-            pos = same[-1] + 1 if same else len(ready)
+            if same:
+                pos = same[-1] + 1
+            else:
+                lower = [i for i, q in enumerate(ready) if pri_key(q) > pri_key(p)]
+                pos = lower[0] if lower else len(ready)
             ready.insert(pos, p)
     return done, gantt
 
